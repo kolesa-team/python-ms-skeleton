@@ -1,0 +1,9 @@
+certifi==2018.8.24
+chardet==3.0.4
+idna==2.7
+monolog-python==0.1.0
+pygelf==0.3.4
+requests==2.19.1
+statsd==3.3.0
+tornado==5.1
+urllib3==1.23
